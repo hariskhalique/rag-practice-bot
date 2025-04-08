@@ -28,3 +28,4 @@ app/retriever/chroma_db/
 
 # Environment variables
 .env
+.idea
