@@ -1,0 +1,30 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Streamlit cache
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data / uploads
+app/data/*.txt
+app/retriever/chroma_db/
+
+# Environment variables
+.env
