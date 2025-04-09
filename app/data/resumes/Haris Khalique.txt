@@ -1,0 +1,276 @@
+﻿Haris Khalique
+haris_khalique2001@yahoo.com
+0092-346-2767080
+SUMMARY
+A seasoned Senior Software Engineer and dedicated Team Lead with over 10+ years of experience in software development and team leadership within dynamic and fast-paced environments. Possess a solid foundation in computer science principles and extensive experience in developing high-quality, scalable software solutions. Adept at leading cross-functional teams to deliver projects that exceed expectations, on time and within budget.
+Key strengths include:
+* Technical Expertise: Profound knowledge of Nodejs frameworks, and tools. Proven ability to adapt and excel in diverse development environments and architectures, with a track record of contributing to the successful launch of robust applications.
+* Leadership & Collaboration: Demonstrated leadership in guiding teams through complex project life cycles, from conception to deployment. Skilled in fostering a collaborative team environment, mentoring junior engineers, and facilitating continuous learning and improvement.
+* Problem-Solving: Exceptional analytical and problem-solving skills, capable of tackling challenging issues by employing innovative solutions that enhance system performance and reliability.
+* Communication: Excellent communicator, adept at presenting technical information to non-technical stakeholders, facilitating effective team collaboration, and negotiating project deliverables. 
+CORE Node.js SkILLS
+* JavaScript & TypeScript:
+   * Strong knowledge of JavaScript (ES6+ features).
+   * Familiarity with TypeScript for type safety and maintainability.
+* Node.js APIs:
+   * Understanding of core modules like fs, http, events, etc.
+   * Knowledge of asynchronous programming (callbacks, promises, async/await).
+* Event-Driven Architecture:
+   * Mastery of the event loop, non-blocking I/O, and event emitters.
+FRAMEWORKS & LIBRARIES
+* Express.js:
+   * Expertise in building RESTful APIs.
+   * Middleware design and implementation.
+* NestJS:
+   * Dependency injection, decorators, and modular structure.
+   * Integration with databases, authentication, and GraphQL.
+* Fastify:
+   * Building high-performance APIs.
+DATABASE MANAGEMENTS
+* SQL Databases:
+   * Writing optimized queries for PostgreSQL or MySQL.
+   * Understanding database normalization, indexing, and query optimization.
+* NoSQL Databases:
+   * Familiarity with MongoDB or DynamoDB.
+   * Knowledge of when to choose NoSQL over SQL.
+* ORMs:
+   * Proficiency in TypeORM, Sequelize, or Prisma.
+API DESIGN
+* RESTful APIs:
+   * Adherence to REST principles (status codes, statelessness, resource modeling).
+   * Versioning and pagination.
+* GraphQL:
+   * Schema design, queries, mutations, and subscriptions.
+SECURITY
+* Authentication & Authorization:
+   * JWT, OAuth 2.0, and session management.
+* Data Protection:
+   * Hashing passwords (bcrypt).
+   * Securing sensitive information.
+* Web Security:
+   * Preventing SQL injection, XSS, CSRF, etc.
+   * HTTPS and SSL/TLS configurations.
+EMERGING SkILLS
+* Microservices:
+   * Designing distributed systems.
+   * Using gRPC or RabbitMQ for communication.
+* Event-Driven Architecture:
+   * Implementing event sourcing and CQRS.
+* Serverless:
+   * Building serverless applications using AWS Lambda or Google Cloud Functions.
+CODE QUALITY
+* Testing:
+   * Unit testing with Jest or Mocha.
+   * Integration and end-to-end testing.
+* Linting & Formatting:
+   * Using ESLint and Prettier for consistent code style.
+* Code Reviews:
+   * Following best practices and conducting peer reviews.
+DevOps & DEPLOYMENT
+* CI/CD Pipelines:
+   * Experience with GitHub Actions.
+* Containerization:
+   * Dockerizing Node.js applications.
+* Cloud Platforms:
+   * Deploying on AWS.
+   * Using services like Lambda, S3, and RDS.
+
+
+ORGANIZATION DETAILS 
+Organization
+	Designation
+	Duration
+	MVP Factory
+	Sr. Backend Developer (Nodejs)
+	Currently employed
+	Selfie Styler
+	Development Team Lead
+	Jan 2017 - Jun 2022
+	Web net Pakistan
+	Sr Project Lead
+	Aug 2016 - Jan 2017
+	Opco Global
+	Lead Software Engineer
+	May 2014 - Jul 2016
+	Grappetite
+	Technical Manager
+	Dec 2012 - May 2014
+	Web starts
+	Sr. Software engineer
+	Aug 2011 - Nov 2012
+	Addictive Mobility
+	Senior Software Engineer
+	Mar 2008 - Oct 2011
+	Webnoxs Pvt (Ltd)
+	PHP Developer
+	Sep 2006 - Mar 2008
+	
+
+PROJECTS DETAILS 
+Organization        : “MVP Factory”
+Duration        : June 2022 - till now
+
+
+Project #1
+Title                 : Sr Backend Developer
+Domain                : https://www.whatever.works/
+Project Type        : Web Project
+Team Size           : 15 and still growing
+Role                : Backend Develop
+Period                : 1+ years
+
+
+Technologies used: Node (NestJs) and React Js, Postgres
+Project Description: Its SaaS web application for employees who want to go on workation vacation to different countries.
+Roles and Responsibilities: 
+* Design, develop, and maintain RESTful APIs using NestJS for scalable and high-performance backend solutions.
+* Ensure code quality, readability, and modularity, adhering to best practices and NestJS standards.
+* Write clean, maintainable, and well-documented code to ensure ease of understanding and future maintenance.
+* Implement and maintain PostgreSQL database schemas, particularly focusing on multi-schema support for SaaS multi-tenancy architecture.
+* Optimize database queries, indexing, and schema design to support multi-tenant operations with high efficiency and performance.
+* Manage migrations and database changes with a focus on data integrity, security, and compliance.
+* Collaborate with cross-functional teams to design system architectures that support scalability and flexibility in a multi-tenant SaaS environment.
+* Participate in technical design discussions, offering input on architecture, design patterns, and technology choices.
+* Plan, manage, and track development tasks within weekly sprint cycles using Jira.
+* Break down complex features and issues into actionable tasks, accurately estimate timelines, and prioritize tasks in alignment with sprint goals.
+* Work closely with the project manager and team to ensure task completion and sprint goals are met within the defined timeline.
+* Conduct and participate in code reviews to ensure code quality, adherence to standards, and knowledge sharing among the team.
+* Implement unit tests, integration tests, and end-to-end tests to ensure the reliability and quality of API endpoints.
+* Troubleshoot and debug issues in a timely manner, ensuring minimal downtime and high availability for the SaaS platform.
+* Identify performance bottlenecks and optimize code, APIs, and database queries for enhanced speed and efficiency.
+* Stay updated on new developments in Node.js, NestJS, PostgreSQL, and SaaS architecture, applying improvements to the codebase as needed.
+* Document API endpoints, multi-tenancy approaches, and project-related information for reference and onboarding.
+* Create and maintain documentation for setup, deployment, and maintenance procedures, promoting efficient onboarding for new team members.
+* Implement, maintain, and optimize file storage solutions with AWS S3, including efficient handling of file uploads, downloads, and security measures.
+* Utilize AWS SQS to handle asynchronous tasks and manage background jobs effectively.
+* Set up, maintain, and optimize queues for handling various events, notifications, and other background processes.
+* Design, configure, and maintain CI/CD pipelines using GitHub Actions to ensure smooth and automated deployment processes.
+
+
+Organization        : “SelfieStyler”
+Duration        : Jan 2017 to June 2022
+
+
+Project #1
+Title                 : Team Lead
+Domain                : https://mysurefit.co
+Project Type        : Web Application (E-Commerce)        
+Team Size           : 40
+Role                : Team Lead (Backend Nodejs).
+Period                : 5 years and 6 months
+
+
+Technologies used: Nodejs, Docker, Mysql, Nestjs
+
+
+Project Description: It's an E-Commerce web application for women clothing. It recommends size base or body measurement calculated on the backend.
+Roles and Responsibilities:
+* Lead and Mentor: Guide and support backend developers in best practices, code quality, and efficient development workflows, especially in NestJS and MySQL.
+* Code Reviews: Conduct regular code reviews to ensure quality, adherence to standards, and optimized performance.
+* Technical Guidance: Serve as the primary resource for troubleshooting and resolving complex technical issues, providing insights, and encouraging continuous improvement.
+* Training and Skill Development: Organize training sessions or workshops to help team members upskill, especially in areas like API development, security, and database optimization.
+* Sprint Planning and Task Management: Participate in sprint planning, task prioritization, and sprint reviews to ensure alignment with project goals and timelines.
+* User Story Refinement: Collaborate with Product Owners and other stakeholders to refine user stories, define clear acceptance criteria, and break down stories into actionable tasks.
+* JIRA Task Management: Create, assign, and track tasks in JIRA, maintaining an up-to-date backlog and ensuring transparency in task progress and priority.
+* API Architecture: Design and oversee the development of REST APIs using NestJS, ensuring scalability, security, and performance.
+* Shopify API Integration: Lead the integration and maintenance of Shopify APIs, enabling seamless product data transfer to the frontend.
+* API Documentation: Ensure all APIs are documented, providing comprehensive guides for both internal and external stakeholders.
+* Architecture Design: Collaborate with the infrastructure team to define the application’s architecture, including database design, service orchestration, and network configuration.
+* Security and Compliance: Ensure security best practices in API development and database management, implementing measures for data protection, access control, and compliance with relevant regulations.
+* Image Upload and Processing: Oversee backend processes that handle user-uploaded selfies, ensuring efficient storage, processing, and retrieval.
+* Integration with Frontend: Facilitate smooth integration with frontend systems for the virtual try-on feature, collaborating with frontend teams to ensure a seamless user experience.
+* Stakeholder Communication: Act as a bridge between backend development and other teams (infrastructure, frontend, product, and QA) to align on project requirements and timelines.
+* Regular Stand-ups and Updates: Participate in daily stand-ups and regular syncs with cross-functional teams to address blockers and keep everyone informed about backend progress.
+* Problem-Solving in Real-Time: Respond to urgent issues or blockers, coordinating with relevant teams to resolve them quickly and minimize downtime.
+
+
+
+
+Organization        : “Webnet Pakistan Pvt Ltd”
+Duration        : August 2016 To Jan 2017 ( Contract )
+
+
+Project #1
+Title                 : Sr Project Lead
+Domain                : https://www.funadiq.com/
+Project Type        : Web Application
+Team Size           : 10
+Role                : Leading Project as Consultant 
+Period                : 6 months
+
+
+Technologies used: PHP and MYSQL
+Project Description: Funadiq is an online portal, where customers can book places for the period of Umrah and Hajj. It also provides different packages to select from for Hajj and Umrah
+Roles and Responsibilities:
+* Identified and resolved project issues quickly and efficiently, minimizing their impact on project progress. 
+* Implemented project lifecycle management processes to ensure project requirements were documented and tracked throughout the project. 
+* Developed a comprehensive project plan that outlined the key tasks and milestones for a major consulting project, resulting in the successful completion of the project on time and within budget. Developed and maintained spreadsheets to track project progress, enabling accurate reporting of project status. 
+* Developed project plans that included timelines, milestones, and resource allocation to ensure successful project completion. 
+* Developed and maintained detailed project documentation that enabled effective tracking of project progress and facilitated collaboration. Identified and resolved project issues in a timely manner to ensure successful project delivery. 
+* Collaborated with a cross-functional team to develop a new research project, resulting in the successful completion of the project on time and within budget.
+
+
+Organization        : “Opco Global Technologies”
+Duration        : May 2014 To June 2016 
+
+
+Project #1
+Title                 : Sr Project Lead
+Domain                : http://ipfleet.net/
+Project Type        : Web Application/Mobile Application
+Team Size           : 10
+Role                : Project Lead 
+Period                : 6 months
+
+
+Technologies used: Backend (PHP, MYSQL), Mobile Application (Android and IOs)
+Project Description: Its an mobile bus application for Earadat Transport service with CMS for bus, routes, schedules and reporting tool written in PHP. It gives the ability to get up to date information about our bus timings and the days to visit your favorite destinations and timings of our routes.
+Roles and Responsibilities:
+* Project Planning: Define clear objectives, deliverables, and timelines for both the web and mobile applications, ensuring alignment with business goals.
+* Resource Allocation: Allocate human and technical resources effectively, ensuring the right skills are in place for backend development (PHP), frontend, and mobile app development (iOS/Android).
+* Technical Leadership: Provide technical guidance and support, especially in PHP for web development and the chosen frameworks or languages for mobile application development.
+* Quality Assurance: Implement quality control processes to ensure the applications meet industry standards and are free from bugs. Ensure rigorous testing of both the web and mobile platforms.
+* Budget Management: Manage the project budget to ensure efficient use of resources without compromising project quality.
+* Team Coordination: Facilitate regular team meetings and coordinate between web developers and mobile developers to ensure consistency and integration of features.
+* Stakeholder Communication: Maintain regular communication with stakeholders to keep them updated on project progress and any issues that arise.
+* Risk Management: Identify potential risks related to project timelines, technology, and resource availability, and devise mitigation strategies.
+* Documentation: Ensure all technical and project documentation is up to date and accessible to team members and stakeholders.
+* Professional Development: Encourage and facilitate professional growth of team members through training and exposure to new technologies.
+* Compliance and Security: Ensure the application complies with legal and security standards, particularly data protection laws relevant to both web and mobile platforms.
+* User Experience Oversight: Work closely with UX/UI designers to ensure a seamless and user-friendly experience across both the web and mobile applications.
+* Market and Customer Research: Stay informed about market trends and customer feedback to guide iterative development and feature enhancements.
+
+
+Project #2
+Title                 : Sr Project Lead
+Domain                : http://portal.future-center.com/
+Project Type        : Web Application
+Team Size           : 10
+Role                : Project Lead 
+Period                : 8 months
+Technologies used: PHP and MYSQL
+Project Description: We create the management portal for Student/Teacher/Administrator/Dept Head. Thought portal students can register to offered courses. Teachers can upload learning materials and transcripts of students. Administrator and Dept Head can perform/manage teachers assignment and course management and fee management through our portal.
+Roles and Responsibilities:
+* Project Planning: Define clear objectives, deliverables, and timelines for both the web and mobile applications, ensuring alignment with business goals.
+* Resource Allocation: Allocate human and technical resources effectively, ensuring the right skills are in place for backend development (PHP), frontend
+* Technical Leadership: Provide technical guidance and support, especially in PHP for web development and the chosen frameworks or languages for mobile application development.
+* Quality Assurance: Implement quality control processes to ensure the applications meet industry standards and are free from bugs. Ensure rigorous testing of both the web and mobile platforms.
+* Budget Management: Manage the project budget to ensure efficient use of resources without compromising project quality.
+* Team Coordination: Facilitate regular team meetings and coordinate between web developers and mobile developers to ensure consistency and integration of features.
+* Stakeholder Communication: Maintain regular communication with stakeholders to keep them updated on project progress and any issues that arise.
+* Risk Management: Identify potential risks related to project timelines, technology, and resource availability, and devise mitigation strategies.
+* Documentation: Ensure all technical and project documentation is up to date and accessible to team members and stakeholders.
+* Professional Development: Encourage and facilitate professional growth of team members through training and exposure to new technologies.
+* Compliance and Security: Ensure the application complies with legal and security standards, particularly data protection laws relevant to both web and mobile platforms.
+* User Experience Oversight: Work closely with UX/UI designers to ensure a seamless and user-friendly experience across both the web and mobile applications.
+* Market and Customer Research: Stay informed about market trends and customer feedback to guide iterative development and feature enhancements.
+TRAININGS
+* Docker Essentials 
+* Nodejs Microservices
+* Elasticsearch Essential Training
+* Agile Software Development
+* Agile Software Development: Scrum for Developers
+EDUCATIONAL QUALIFICATION 
+* Master in Software Engineering ( Mohammad Ali Jinnah University ) 2010-2014
+* Graduation in Computer Science ( Karachi University ) 
+* Diploma in Information Technology ( NCR Education Center 2005-2006 )

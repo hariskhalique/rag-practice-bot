@@ -1,0 +1,35 @@
+**Job Title:** Senior Backend Engineer
+
+**Location:** Remote
+
+**Company Overview:**
+Join our fast-growing team to help build scalable, reliable systems for our SaaS platform. We are revolutionizing the way enterprises manage and process data.
+
+**Key Responsibilities:**
+- Design, develop, and maintain scalable RESTful and GraphQL APIs using Node.js (preferably NestJS)
+- Optimize PostgreSQL database performance, implement indexing and multi-tenant schemas
+- Build microservices architecture using Docker, Kubernetes, and message queues (e.g., RabbitMQ)
+- Integrate with third-party APIs and authentication systems (JWT, OAuth 2.0)
+- Implement CI/CD pipelines using GitHub Actions
+- Collaborate with frontend and DevOps teams to align API design and infrastructure
+- Ensure secure coding practices and system performance through caching (Redis/Memcached), CDN integration, and OWASP guidelines
+
+**Required Qualifications:**
+- 5+ years of experience in backend development with Node.js
+- Strong experience with NestJS, PostgreSQL, Docker, and AWS
+- Experience with microservices, GraphQL, and CI/CD automation
+- Familiarity with caching strategies, secure API development, and performance optimization
+- Strong problem-solving skills and ability to work in an agile environment
+- Excellent communication and teamwork skills
+
+**Preferred Qualifications:**
+- Experience with FastAPI, MongoDB, and Beanie ODM
+- Exposure to scalable multi-schema SaaS design
+- Knowledge of infrastructure tools like Terraform and Helm
+
+**Perks:**
+- Remote work flexibility
+- Learning & development stipend
+- Team retreats & hackathons
+
+We're looking for engineers who love to solve challenging problems and are excited to shape the future of enterprise systems.
