@@ -59,11 +59,15 @@ rag-chatbot/
 git clone https://github.com/yourname/chat-with-your-resume.git
 cd chat-with-your-resume
 
-# 2. Install dependencies
+# 2. Create Virtual Environment 
+python -m venv venv ( it will create VE )
+source venv/bin/activate ( it activate you VE )
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the app
-streamlit run ui/streamlit_app.py
+# 4. Run the app
+streamlit run ui/streamlit_job_app.py
 ```
 
 ---
